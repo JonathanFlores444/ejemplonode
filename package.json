@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-nodejs",
+  "version": "1.0.0",
+  "description": "ejemplo en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanFlores444/ejemplonode.git"
+  },
+  "author": "Jonathan Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanFlores444/ejemplonode/issues"
+  },
+  "homepage": "https://github.com/JonathanFlores444/ejemplonode#readme"
+}
